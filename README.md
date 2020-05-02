@@ -1,6 +1,6 @@
 ## ALERT! This is NOT FOR PRODUCTION, all risk will on your own!
 
-This repository fork from [MariaDB server](https://mariadb.org)
+This repository forks from [MariaDB server](https://mariadb.org)
 
 
 # The motivation
