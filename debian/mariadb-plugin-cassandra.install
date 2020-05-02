@@ -1,0 +1,2 @@
+etc/mariadb/conf.d/cassandra.conf etc/mariadb/mariadb.conf.d
+usr/lib/mysql/plugin/ha_cassandra.so

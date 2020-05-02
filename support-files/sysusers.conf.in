@@ -1,0 +1,1 @@
+u @MYSQLD_USER@ - "MariaDB" @MARIADB_DATADIR@

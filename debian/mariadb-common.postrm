@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+if [ "$1" = "purge" ]; then
+  rmdir /etc/mariadb/conf.d 2>/dev/null || true
+  rmdir /etc/mariadb 2>/dev/null || true
+fi
+
+#DEBHELPER#
