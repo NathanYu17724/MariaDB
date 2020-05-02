@@ -19,5 +19,5 @@ So far, this repository has been modified the original MariaDB with:
 
 The major and priority task is:
 
-1. Remove MyISAM, because MariaDB has Aria(Mor Maria), which should be better than MyISAM
+1. Remove MyISAM, because MariaDB has Aria(or Maria), which should be better than MyISAM
 2. Replace InnoDB with XtraDB
